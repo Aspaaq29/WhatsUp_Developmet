@@ -11,6 +11,3 @@ Author: Aspaaq
 4. Attachments (Image,Audio,Video) Code
 
 Hiding the last seen
-
-Adding The Vedio Call Feature
-Adding The Audio Call Feature
